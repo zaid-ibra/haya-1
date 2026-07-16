@@ -1,3 +1,9 @@
+# HAYA-ZAID AI Trading System
+
+This distribution adds the HAYA-ZAID gold-analysis, decision, risk, backtesting, and MT5 execution layers. See `HAYA_ZAID_README.md` for the safe entry point and operating notes. The original TradingAgents documentation and attribution follow below.
+
+---
+
 <p align="center">
   <img src="assets/TauricResearch.png" style="width: 60%; height: auto;">
 </p>

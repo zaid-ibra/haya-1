@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "tradingagents"
-version = "0.3.0"
-description = "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+name = "haya-zaid-ai"
+version = "1.0.0"
+description = "HAYA-ZAID AI Trading System for gold analysis, risk planning, and MT5 execution"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
@@ -46,6 +46,7 @@ bedrock = [
 ]
 
 [project.scripts]
+haya-zaid = "cli.main:app"
 tradingagents = "cli.main:app"
 
 [tool.setuptools.packages.find]
